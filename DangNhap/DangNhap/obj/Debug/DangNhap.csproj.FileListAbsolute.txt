@@ -1,0 +1,8 @@
+D:\LAB04\LAB04\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+D:\LAB04\LAB04\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+D:\LAB04\LAB04\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+D:\LAB04\LAB04\DangNhap\DangNhap\obj\Debug\DangNhap.Properties.Resources.resources
+D:\LAB04\LAB04\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.cache
+D:\LAB04\LAB04\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.CoreCompileInputs.cache
+D:\LAB04\LAB04\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+D:\LAB04\LAB04\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
